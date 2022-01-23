@@ -1,4 +1,4 @@
-//Abra o projeto no visual code, e digites os seguintes comandos:
+//Abra o projeto no visual code, e digite os seguintes comandos:
 
 npm install vue-router
 
